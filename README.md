@@ -1,4 +1,4 @@
 # Class-2
-Welcome to our 2nd class
+## Welcome to our 2nd class
 
-Zobaida Akter
+### Zobaida Akter
